@@ -30,6 +30,9 @@ Bundle 'chrisbra/NrrwRgn'
 Bundle 'utl.vim'
 Bundle 'hsitz/VimOrganizer'
 Bundle 'sjl/gundo.vim'
+Bundle 'skammer/vim-css-color'
+Bundle 'mattn/zencoding-vim'
+Bundle 'tpope/vim-ragtag'
 
 " Ruby/Rails
 Bundle 'tpope/vim-rails'
@@ -38,6 +41,7 @@ Bundle 'tpope/vim-rake'
 Bundle 'nelstrom/vim-textobj-rubyblock'
 Bundle 'ecomba/vim-ruby-refactoring'
 Bundle 'apidock.vim'
+Bundle 'hallison/vim-ruby-sinatra'
 
 " color themes
 Bundle 'altercation/vim-colors-solarized'
@@ -57,6 +61,8 @@ Bundle 'vim-scripts/jade.vim'
 Bundle 'wavded/vim-stylus'
 Bundle 'VimClojure'
 Bundle 'bbommarito/vim-slim'
+Bundle 'itspriddle/vim-jquery'
+Bundle 'skalnik/vim-vroom'
 
 " Support and minor
 Bundle 'kana/vim-textobj-user'
