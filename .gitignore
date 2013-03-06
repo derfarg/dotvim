@@ -2,3 +2,4 @@ sessions
 .netrwhist
 spell
 bundle/
+.DS_Store

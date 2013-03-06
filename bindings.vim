@@ -10,6 +10,9 @@ nmap <silent> <leader>s :set nolist!<CR>
 " Ctrl-N to disable search match highlight
 nmap <silent> <C-N> :silent noh<CR>
 
+" Toggle GitGutter Diff Highlighting
+nmap <leader>q :ToggleGitGutterLineHighlights<CR>
+
 " Ctrol-E to switch between 2 last buffers
 nmap <C-E> :b#<CR>
 

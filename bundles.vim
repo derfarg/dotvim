@@ -4,7 +4,8 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 Bundle 'gmarik/vundle'
-
+Bundle 'airblade/vim-gitgutter'
+"Bundle 'Stormherz/tablify'
 Bundle 'scrooloose/nerdtree'
 Bundle 'scrooloose/nerdcommenter'
 "Bundle 'wincent/Command-T'
@@ -20,7 +21,9 @@ Bundle 'tsaleh/vim-align'
 Bundle 'mileszs/ack.vim'
 Bundle 'austintaylor/vim-indentobject'
 Bundle 'greplace.vim'
-Bundle 'Lokaltog/vim-powerline'
+"Bundle 'Lokaltog/vim-powerline'
+Bundle 'skwp/vim-powerline'
+Bundle 'Lokaltog/vim-easymotion'
 Bundle 'sjl/threesome.vim'
 Bundle 'Indent-Guides'
 Bundle 'tpope/vim-endwise'
@@ -42,6 +45,7 @@ Bundle 'nelstrom/vim-textobj-rubyblock'
 Bundle 'ecomba/vim-ruby-refactoring'
 Bundle 'apidock.vim'
 Bundle 'hallison/vim-ruby-sinatra'
+Bundle 'skwp/vim-rspec'
 
 " color themes
 Bundle 'altercation/vim-colors-solarized'
@@ -60,7 +64,7 @@ Bundle 'vitaly/vim-syntastic-coffee'
 Bundle 'vim-scripts/jade.vim'
 Bundle 'wavded/vim-stylus'
 Bundle 'VimClojure'
-Bundle 'bbommarito/vim-slim'
+"Bundle 'bbommarito/vim-slim'
 Bundle 'itspriddle/vim-jquery'
 Bundle 'skalnik/vim-vroom'
 
